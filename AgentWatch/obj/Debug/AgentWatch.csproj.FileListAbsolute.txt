@@ -1,0 +1,21 @@
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\AgentWatch.csproj.GenerateResource.Cache
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\TinyResGen.cache
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\le\Agent Watch.exe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\be\Agent Watch.exe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\le\Agent Watch.pdb
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\be\Agent Watch.pdb
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Agent Watch.exe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Agent Watch.pdb
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\le\Agent Watch.pe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\le\Agent Watch.pdbx
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\be\Agent Watch.pe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\be\Agent Watch.pdbx
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\AgentWatch.Resources.resources
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\AgentWatch.Resources.tinyresources
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\be\Agent Watch.pe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\be\Agent Watch.pdbx
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\le\Agent Watch.pe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\le\Agent Watch.pdbx
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Agent Watch.exe
+c:\users\ali.sufiyan\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Agent Watch.pdb
